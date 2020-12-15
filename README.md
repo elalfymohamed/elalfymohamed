@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elalfy-mohamed-33162410b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/elalfy-mohamed-33162410b/" height="30" width="40" /></a>
-<a href="https://github.com/elalfy404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/elalfy404" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elalfy-mohamed-33162410b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/elalfy-mohamed-33162410b/" height="30" width="40" /></a>
+<a href="https://github.com/elalfymohamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/elalfymohamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
