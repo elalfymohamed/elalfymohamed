@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm elalfy mohamed</h1>
 <h3 align="center">Front-End developer </h3>
 
-<img src="https://github.com/gabrielsanttana/gabrielsanttana/blob/master/.github/gabriel.png?raw=true" width="440px" height="360px"  align='right' />
+<img src="https://user-images.githubusercontent.com/46499967/107148495-13801180-695c-11eb-8a04-47d80b870206.png" width="440px" height="360px"  align='right' />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
