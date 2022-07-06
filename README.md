@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm elalfy mohamed</h1>
 <h3 align="center">Front-End developer </h3>
 
-<img src="https://user-images.githubusercontent.com/46499967/107148526-488c6400-695c-11eb-94b4-824d5e597363.png" width="450px" height="400px"  align='right' />
+<img src="https://user-images.githubusercontent.com/46499967/177640042-41009c7e-7c8d-4740-94f7-3186bd9e745a.png" width="500px" height="400px"  align='right' />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/elalfy-mohamed-33162410b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/elalfy-mohamed-33162410b/" height="30" width="40" /></a>
-<a href="https://github.com/elalfymohamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/elalfymohamed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elalfy-mohamed-33162410b/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="https://www.linkedin.com/in/elalfy-mohamed-33162410b/" height="30" width="40" /></a>
+<a href="https://github.com/elalfymohamed" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="https://github.com/elalfymohamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
+     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
      <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
