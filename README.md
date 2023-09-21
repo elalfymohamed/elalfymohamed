@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm elalfy mohamed</h1>
 <h3 align="center">Front-End web development</h3>
 
-<img src="https://user-images.githubusercontent.com/46499967/177640042-41009c7e-7c8d-4740-94f7-3186bd9e745a.png" width="500px" height="400px"  align='right' />
+<!-- <img src="https://user-images.githubusercontent.com/46499967/177640042-41009c7e-7c8d-4740-94f7-3186bd9e745a.png" width="500px" height="400px"  align='right' /> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +33,6 @@
 
 🧠 Learning addict
 
-🎮 Books, games and movies fan
+🎮 Books, games, and movies fan
 
 ☕ Coffee lover
