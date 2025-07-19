@@ -4,7 +4,7 @@ I’m a **Software Developer** with a keen interest in building innovative and s
 
 ## 💼 Currently Working On
 - Improving problem-solving skills through coding challenges
-- Exploring cloud architecture and learning a new programming language  
+- Exploring cloud architecture and learning a new technology  
 - Contributing to open-source projects
 
 ### A bit about me  
