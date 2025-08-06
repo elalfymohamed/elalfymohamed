@@ -14,6 +14,3 @@ I’m a **Software Developer** with a keen interest in building innovative and s
 💡 Believe that great software comes from understanding both code and users
 
 *Thanks for stopping by — have a great day!* 🚀
-
----
-⭐ *Feel free to star any repositories you find interesting!*
